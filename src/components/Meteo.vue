@@ -26,7 +26,7 @@
             return {
                 requete: '',
                 temps: undefined,
-                api_code: 'dc27aa67fbb3aa41366143ac25e412a0',
+                api_code: 'EnterApiKeyHere',
                 url_recherche: 'https://api.openweathermap.org/data/2.5/weather?'
             }
         },
